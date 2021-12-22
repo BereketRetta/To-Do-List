@@ -16,7 +16,7 @@ In this project, I built a simple HTML list of To Do tasks. The list is styled a
 
 ## Live Demo
 
-[Live Demo Link](https://wes-isaac.github.io/To-do-list/)
+[Live Demo Link](https://bereketretta.github.io/To-Do-List/)
 
 
 
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the repo to your local machine. Run this command
 
-git clone https://github.com/Wes-Isaac/To-do-list.git
+git clone https://github.com/bereketretta/To-do-list.git
 
 cd To-do-list
 
@@ -36,24 +36,16 @@ Next, run 'npm start' which will run the app in the development mode.
 
 Open http://localhost:3000 to view it in the browser.
 
-ALTERNATIVELY
-
-Just run 'npm run build' which will build the project and generate output files into the build directory.
-
-Go to build directory and manually open index.html to interact with the app.
-
 ## Authors
 
-👤 **Yishak**
+👤 **Bereket Retta**
 
-- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
-- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
+- GitHub: [Bereket Retta](https://github.com/bereketretta)
+- LinkedIn: [@bereketretta](https://www.linkedin.com/in/bereketretta/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Wes-Isaac/To-do-list/issues).
 
 ## Show your support
 
